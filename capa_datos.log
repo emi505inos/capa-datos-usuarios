@@ -1,0 +1,205 @@
+11:42:33 AM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001C1DA677D60>
+11:42:33 AM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001C1DA113EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+11:42:33 AM: DEBUG [CursorDelPool.py:22] Dentro del bloque with
+11:42:33 AM: DEBUG [CursorDelPool.py:24] []
+11:42:33 AM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+11:42:33 AM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001C1DA113EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:24:46 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001329BED7FD0>
+04:24:46 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001329BD93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:24:46 PM: DEBUG [UsuarioDao.py:15] Seleccionando usuarios
+04:24:46 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:24:46 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001329BD93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:26:23 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000002510D497FD0>
+04:26:23 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000002510D353890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:26:23 PM: DEBUG [UsuarioDao.py:15] Seleccionando usuarios
+04:26:23 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:26:23 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000002510D353890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:30:46 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001DC8D957FD0>
+04:30:46 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001DC8D463890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:30:46 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:30:46 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001DC8D463890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:32:01 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x00000267BA9F7FA0>
+04:32:01 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000267BA8B3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:32:01 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:32:01 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000267BA8B3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:33:59 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x00000237E68A7FA0>
+04:33:59 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000237E6403890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:33:59 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:33:59 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000237E6403890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:34:53 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001F60E6A29B0>
+04:34:53 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001F60E740BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:34:53 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:34:53 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001F60E740BF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:39:47 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001AA0EF27FA0>
+04:39:47 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001AA0EA93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:39:47 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:39:47 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001AA0EA93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:45:53 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000023C654B5CC0>
+04:45:53 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000023C63393890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:45:53 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: not all arguments converted during string formatting, <class 'TypeError'>, <traceback object at 0x0000023C654BF340>
+04:45:53 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000023C63393890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:47:33 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001BBD5855D50>
+04:47:33 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001BBD3703890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:47:33 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: not all arguments converted during string formatting, <class 'TypeError'>, <traceback object at 0x000001BBD585F340>
+04:47:33 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001BBD3703890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:48:53 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000022BEA7D5D50>
+04:48:53 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000022BE8323890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:48:53 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: not all arguments converted during string formatting, <class 'TypeError'>, <traceback object at 0x0000022BEA7DF280>
+04:48:53 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000022BE8323890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:50:30 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000027DE81F3610>
+04:50:30 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000027DE60B3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:50:30 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: 
+        Id Usuario:3, Usuario:jrubio, Password:789
+    
+04:50:30 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, jrubio, 789).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x0000027DE81EDAC0>
+04:50:30 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000027DE60B3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:54:50 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000019726E27B50>
+04:54:50 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000019724B93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:54:50 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+04:54:50 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000019724B93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:55:16 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000019724B93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:55:16 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:3, Usuario:hfuego, Password:654
+04:55:16 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, hfuego, 654).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x0000019727069A80>
+04:55:16 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000019724B93890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:57:09 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001C37B1B35E0>
+04:57:09 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001C379073890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:57:09 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:jrubio, Usuario:654, Password:3
+04:57:09 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, 654, 3).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x000001C37B1ADB00>
+04:57:09 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001C379073890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:57:46 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x00000263F3985CF0>
+04:57:46 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000263F1823890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:57:46 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:j, Usuario:4, Password:3
+04:57:46 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, 4, 3).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x00000263F398F140>
+04:57:46 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000263F1823890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:58:45 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000014FA9905CC0>
+04:58:45 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000014FA77F3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:58:45 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:1, Usuario:jrubio, Password:654
+04:58:45 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, jrubio, 654).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x0000014FA990F300>
+04:58:45 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000014FA77F3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:59:25 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001AF24265CF0>
+04:59:25 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001AF22153890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+04:59:25 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:, Usuario:jrubio, Password:654
+04:59:25 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, jrubio, 654).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x000001AF2426EEC0>
+04:59:25 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001AF22153890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:07:51 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001FEDDC47EE0>
+05:07:51 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001FEDDB03EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:07:51 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+05:07:51 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001FEDDB03EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:08:29 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001F3D0D47EE0>
+05:08:29 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001F3D07C3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:08:29 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+05:08:29 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001F3D07C3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:11:56 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001CD7D857EE0>
+05:11:56 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001CD7D713EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:11:56 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+05:11:56 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001CD7D713EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:12:41 PM: DEBUG [logger_base.py:12] Mensaje a nivel debug
+05:12:41 PM: INFO [logger_base.py:13] Mensaje a nivel de info
+05:12:41 PM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+05:12:41 PM: ERROR [logger_base.py:15] Mensaje a nivel de error
+05:12:41 PM: CRITICAL [logger_base.py:16] Mensaje a nivel de critical
+05:15:05 PM: DEBUG [logger_base.py:12] Mensaje a nivel debug
+05:15:05 PM: INFO [logger_base.py:13] Mensaje a nivel de info
+05:15:05 PM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+05:15:05 PM: ERROR [logger_base.py:15] Mensaje a nivel de error
+05:15:05 PM: CRITICAL [logger_base.py:16] Mensaje a nivel de critical
+05:15:13 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001A1DA3D7E80>
+05:15:13 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001A1DA293EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:15:13 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+05:15:13 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001A1DA293EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:15:13 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+05:15:13 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:kgomez
+, Password:456
+05:15:48 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000020B30527E80>
+05:15:48 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000020B2FFF3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:15:48 PM: DEBUG [CursorDelPool.py:17] Commit de la transaccion
+05:15:48 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000020B2FFF3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:15:48 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+05:15:48 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:kgomez
+, Password:456
+05:16:14 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+05:16:14 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:kgomez
+, Password:456
+05:28:00 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+05:28:00 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:kperez, Password:5678
+05:39:25 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+05:39:25 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:kperez, Password:5678
+05:39:45 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, jrubio, 9876).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x000001ED0237F8C0>
+05:40:14 PM: INFO [MenuAppUsuario.py:59] Usuarios modificados: 1
+05:40:18 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+05:40:18 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:ktorres, Password:657
+05:40:43 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: unsupported format character 'S' (0x53) at index 38, <class 'ValueError'>, <traceback object at 0x000001BB0C6AF500>
+05:44:40 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x00000258BEB0A200>
+05:44:40 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000258BC883EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:44:40 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:None, Usuario:jrubio, Password:987
+05:44:40 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, jrubio, 987).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x00000258BED2F540>
+05:44:40 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000258BC883EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:48:27 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001C34A1006D0>
+05:48:27 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001C347FC3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:48:27 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:None, Usuario:jrubio, Password:987
+05:48:27 PM: ERROR [CursorDelPool.py:14] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, jrubio, 987).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x000001C34A0FDF40>
+05:48:27 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001C347FC3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:59:14 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001E2067286A0>
+05:59:14 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001E2045F3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:59:14 PM: DEBUG [UsuarioDao.py:26] Usuario insertado: Id Usuario:None, Usuario:klara, Password:45678
+05:59:14 PM: DEBUG [CursorDelPool.py:12] Se ejecuta método __exit__
+05:59:14 PM: ERROR [CursorDelPool.py:15] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, klara, 45678).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x000001E20672DB40>
+05:59:14 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001E2045F3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:00:23 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x0000019CF05D06A0>
+06:00:23 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x0000019CEE0D3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:00:23 PM: DEBUG [UsuarioDao.py:27] Usuario a insertar: Id Usuario:None, Usuario:klara, Password:765
+06:00:23 PM: DEBUG [CursorDelPool.py:12] Se ejecuta método __exit__
+06:00:23 PM: ERROR [CursorDelPool.py:15] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, klara, 765).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x0000019CF05CDC40>
+06:00:23 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x0000019CEE0D3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:01:13 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x000001F604DCA230>
+06:01:13 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x000001F602EC3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:01:13 PM: DEBUG [UsuarioDao.py:27] Usuario a insertar: Id Usuario:None, Usuario:klara, Password:876
+06:01:13 PM: DEBUG [CursorDelPool.py:12] Se ejecuta método __exit__
+06:01:13 PM: ERROR [CursorDelPool.py:15] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, klara, 876).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x000001F604FDF4C0>
+06:01:13 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x000001F602EC3EF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:00 PM: DEBUG [conexion.py:24] Creacion de pool exitosa <psycopg2.pool.SimpleConnectionPool object at 0x00000183CBB18340>
+09:40:00 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000183CB8D3450; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:00 PM: DEBUG [UsuarioDao.py:15] Seleccionando usuarios
+09:40:00 PM: DEBUG [CursorDelPool.py:12] Se ejecuta método __exit__
+09:40:00 PM: DEBUG [CursorDelPool.py:18] Commit de la transaccion
+09:40:00 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000183CB8D3450; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:00 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+09:40:00 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:ktorres, Password:657
+09:40:12 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000183CB8D3450; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:12 PM: DEBUG [UsuarioDao.py:15] Seleccionando usuarios
+09:40:12 PM: DEBUG [CursorDelPool.py:12] Se ejecuta método __exit__
+09:40:12 PM: DEBUG [CursorDelPool.py:18] Commit de la transaccion
+09:40:12 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000183CB8D3450; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:12 PM: INFO [MenuAppUsuario.py:46] Id Usuario:1, Usuario:jperez, Password:1234
+09:40:12 PM: INFO [MenuAppUsuario.py:46] Id Usuario:2, Usuario:ktorres, Password:657
+09:40:31 PM: DEBUG [conexion.py:35] Conexion obtenida del pool: <connection object at 0x00000183CB8D3450; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:31 PM: DEBUG [UsuarioDao.py:27] Usuario a insertar: Id Usuario:None, Usuario:Emiliano, Password:2546
+09:40:31 PM: DEBUG [CursorDelPool.py:12] Se ejecuta método __exit__
+09:40:31 PM: ERROR [CursorDelPool.py:15] Ocurrio una excepcion, se hace rollback: null value in column "id_usuario" of relation "usuario" violates not-null constraint
+DETAIL:  Failing row contains (null, Emiliano, 2546).
+, <class 'psycopg2.errors.NotNullViolation'>, <traceback object at 0x00000183CBBDDE80>
+09:40:31 PM: DEBUG [conexion.py:40] Regresamos la conexion al punto: <connection object at 0x00000183CB8D3450; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
